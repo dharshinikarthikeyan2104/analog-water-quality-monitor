@@ -48,3 +48,8 @@ The proposed circuit has not been physically tested.
 - Add additional water-quality parameters
 - Develop a PCB
 - Perform laboratory testing
+## Block Diagram
+
+The following block diagram shows the proposed signal flow of the system.
+
+![System Block Diagram](block-diagram.png)
