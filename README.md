@@ -1,38 +1,38 @@
-# analog-water-quality-monitor
+# 🔬 Analog Water Quality Monitor
+
+A proposed low-cost analog electronic system for monitoring water quality,
+starting with pH measurement.
 
 ## 📌 About the Project
 
-This project aims to develop a low-cost analog electronic system
-for monitoring water quality parameters.
+The Analog Water Quality Monitor is an electronics project that explores
+the design of a low-cost analog system for monitoring water quality
+parameters.
 
-## 🎯 Objective
+The initial design focuses on measuring pH using a pH sensor and
+processing its analog output using signal-conditioning circuits.
 
-To design a simple electronic circuit that can indicate changes
-in water quality using sensor-based measurements.
+> **Project Status:** Design and documentation stage. The circuit has not
+> been physically tested yet.
 
-## 🔧 Components
+## 🎯 Objectives
 
-- pH sensor
-- Operational amplifier
-- Resistors
-- Capacitors
-- LEDs
-- Transistors
-- Power supply
+- Design a low-cost analog water-quality monitoring system
+- Understand pH sensing and analog signal conditioning
+- Process sensor output using electronic circuits
+- Provide a simple visual indication of the measured condition
+- Document the complete design process using GitHub
 
-## ⚙️ Working
+## ⚙️ Proposed Working Principle
 
-The sensor detects changes in the water parameter and produces
-an electrical signal. The signal is processed using an analog
-circuit and the corresponding output is displayed.
+The proposed system follows this signal path:
+'''text
 
-## 📊 Project Status
-
-🚧 Currently under development.
-
-## 🚀 Future Improvements
-
-- Add multiple water quality parameters
-- Improve measurement accuracy
-- Add digital display
-- Develop a compact PCB
+pH Sensor
+    ↓
+Signal Conditioning
+    ↓
+Reference / Comparison
+    ↓
+LED Indicator
+'''text
