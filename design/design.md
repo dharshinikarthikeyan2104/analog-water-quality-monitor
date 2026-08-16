@@ -52,4 +52,4 @@ The proposed circuit has not been physically tested.
 
 The following block diagram shows the proposed signal flow of the system.
 
-![System Block Diagram](block-diagram.png)
+![System Block Diagram](system-block-diagram.png)
