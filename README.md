@@ -1,4 +1,5 @@
 # 🔬 Analog Water Quality Monitor
+>A beginner-friendly analog electronics project focused on water quality monitoring
 
 A proposed low-cost analog electronic system for monitoring water quality,
 starting with pH measurement.
