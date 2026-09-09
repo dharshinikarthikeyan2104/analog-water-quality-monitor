@@ -37,3 +37,6 @@ Reference / Comparison
     ↓
 LED Indicator
 '''text
+## 🌿 GitHub Practice
+
+This section was added while learning Git branches.
